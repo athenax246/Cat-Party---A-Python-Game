@@ -1,2 +1,2 @@
 # Lazy-Cats
-random cat game
+random python game with cute cats
