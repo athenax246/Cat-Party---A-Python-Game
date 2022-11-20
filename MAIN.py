@@ -4,7 +4,7 @@ pygame.init()
 screen = pygame.display.set_mode((620, 550))
 
 #background music, might sound glitchy and slow down the program
-#I suggest playing music-free, as the game will load faster
+#I recommand playing without music, as the game will load faster
 #bg_music = audio.play_file("Nyan Cat.mp3")
 #bg_music.set_loop(3)
 
