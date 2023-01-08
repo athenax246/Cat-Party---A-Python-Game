@@ -1,2 +1,2 @@
-# Lazy-Cats
-A game about cats, coded with Python
+# Cat Party
+A game about cute cats, coded with Python sprites.
